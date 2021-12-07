@@ -54,7 +54,7 @@ def enviar_várias(correio, quantas):
         aux +=1
 
 
-def desconectar ():
+def desconectar (): #Needs an update, as the whatsweb disconnect menu has been updated.
     botao_conf = driver.find_element_by_xpath('//*[@id="side"]/header/div[2]/div/span/div[3]/div/span')
     botao_conf.click()
     time.sleep(2)
