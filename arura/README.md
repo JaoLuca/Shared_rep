@@ -1,4 +1,4 @@
-My first Readme, I swear it will improve, sory for my bed inglesh btw
+My first Readme, I swear it will improve including its design, sory for my bed inglesh btw
 
 WhatsApp Annoyng Bot Project
 
